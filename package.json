@@ -1,0 +1,25 @@
+{
+    "name": "angularexample",
+    "version": "1.0.0",
+    "description": "Project for angular course",
+    "main": "index.html",
+    "dependencies": {},
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    },
+    "scripts": {
+        "start": "npm run lite",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lite": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/paularamirez1885/AngularExample.git"
+    },
+    "author": "Paula Ramírez",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/paularamirez1885/AngularExample/issues"
+    },
+    "homepage": "https://github.com/paularamirez1885/AngularExample#readme"
+}
